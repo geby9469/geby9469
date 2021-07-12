@@ -10,4 +10,4 @@ My image
 
 ## Programming Language
 
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white&logoWidth=10"/>
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white&logoWidth=30"/>
