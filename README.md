@@ -1,58 +1,13 @@
+## Introduction
 
-# Geby
+My image
 
-Seoul, republic of korea
++ Name:
 
-큰제목
-======
+* Birth:
 
-작은제목
---------
+- Sex:
 
-# 글머리
-## 글머리2
-###### 글머리6
+## Programming Language
 
-> blockquote
->   > blockquote
->   >   > blockquote
-
-1. one
-2. two
-3. three
-
-+ no ordered list   
-  * no ordered list 2   
-    - no ordered list 3
-
-
-This is code block 3
-```java
-public class Test {
-  public Test() { }
-}
-```
-End code block 3
-
-horizontal line   
-
----   
-
-***   
-
-link
-google: <https://google.com>   
-email: <bjk9406@gmail.com>   
-github: <http://github.com>   
-
-
-stress
-*gradient*
-**bold**
-~~cancel~~
-
-images
-
-br
-hello, world!   bye, world!
-
+<src ="https://img.shields.io/badge/Java-#007396.svg?$style=for-the-badge&logo=Java&logoColor="red"/>
