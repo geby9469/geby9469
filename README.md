@@ -2,11 +2,9 @@
 
 My image
 
-- Name:
+### History
 
-- Birth:
-
-- Sex:
+- 2020.01 ~ 2021.07: Tmaxsoft Framework engineer
 
 ## Programming Language
 
