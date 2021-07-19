@@ -6,7 +6,7 @@
 
 - 2020.01 ~ 2021.07: Tmaxsoft Framework engineer
 
-- 2021.07 ~ Present.: Tmaxsoft Middleware engineer
+- 2021.07 ~ Present: Tmaxsoft Middleware engineer
 
 ## Programming Language
 
