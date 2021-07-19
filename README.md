@@ -1,6 +1,5 @@
 ## Introduction
-
-My image
+<img src="https://user-images.githubusercontent.com/44286914/126173251-a57b2a68-3ba8-4fd8-967d-c985299a9261.JPG" width="300" height="300"/>
 
 ### History
 - 2013.03 ~ 2020.02: Computer Engineering in Korea Polytechnic University
