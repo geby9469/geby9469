@@ -3,8 +3,11 @@
 My image
 
 ### History
+- 2013.03 ~ 2020.02: Computer Engineering in Korea Polytechnic University
 
 - 2020.01 ~ 2021.07: Tmaxsoft Framework engineer
+
+- 2021.07 ~ Present.: Tmaxsoft Middleware engineer
 
 ## Programming Language
 
