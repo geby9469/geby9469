@@ -2,7 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/44286914/126173251-a57b2a68-3ba8-4fd8-967d-c985299a9261.JPG" width="300" height="300"/>
 
-Read more <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/geby94"/>
+Read more <a href="https://www.linkedin.com/in/geby94/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
 ---
 ## Programming Language
