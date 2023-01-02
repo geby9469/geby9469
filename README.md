@@ -4,7 +4,9 @@
 ## Introduction
 Hi, I'm blockchain researcher & developer
 
-**social media** <a href="https://www.linkedin.com/in/geby94/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a><br>
+**social media** 
+<a href="https://www.linkedin.com/in/geby94/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.notion.so/gebys/Blockchain-9571f217fc9b4703a035082513147743"><img src="https://img.shields.io/badge/-Notion-white?style=for-the-badge&logo=Notion&logoColor=black"/></a><br>
 **research** <img src="https://img.shields.io/badge/Bitcoin-F7931A?style=for-the-badge&logo=Bitcoin&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white"/></a>
 
