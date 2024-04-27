@@ -2,23 +2,26 @@
 <br>
 
 ## Introduction
-Hi! I'm a blockchain developer.
+Hi! I'm a blockchain developer.<br>
+If you want to know details about me. You can click the icons! :smiley:
 
 **Social media**
 <a href="https://www.linkedin.com/in/geby94/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://gebys.notion.site/gebys/Blockchain-9571f217fc9b4703a035082513147743"><img src="https://img.shields.io/badge/-Notion-white?style=for-the-badge&logo=Notion&logoColor=black"/></a><br>
-**Research** <img src="https://img.shields.io/badge/Bitcoin-F7931A?style=for-the-badge&logo=Bitcoin&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white"/></a>
 <br>
-**Resume**
+**Tech Blog**
+<a href="https://gebys.notion.site/Geby-s-TechBlog-9571f217fc9b4703a035082513147743?pvs=4"><img src="https://img.shields.io/badge/-Notion-white?style=for-the-badge&logo=Notion&logoColor=black"/></a>
+<br>
+**Resume(kor)**
 <a href="https://gebys.notion.site/23076c10aacc4efc9300009ad0b9edd1?pvs=4"><img src="https://img.shields.io/badge/readme-018EF5?style=for-the-badge&logo=readme&logoColor=white"/></a>
 <br>
-**Portfolio**
+**Portfolio(eng)**
 <a href="https://gebys.notion.site/Bongjun-Kim-634c91e4781a4d6bb1379807a7690069?pvs=4"><img src="https://img.shields.io/badge/-Notion-white?style=for-the-badge&logo=Notion&logoColor=black"/></a><br>
 
 ---
 ## Skills
-
+**Research&Developement** <img src="https://img.shields.io/badge/Bitcoin-F7931A?style=for-the-badge&logo=Bitcoin&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white"/></a>
+<br>
 **Language**
 <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=Solidity&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/></a>
@@ -48,5 +51,5 @@ Hi! I'm a blockchain developer.
 <img src="https://img.shields.io/badge/TravisCI-3EAAAF?style=for-the-badge&logo=TravisCI&logoColor=white"/></a>
 <br>
 **IDE**
-<img src="https://img.shields.io/badge/Intellij IDEA-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Intellij IDEA-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white"/></a>
