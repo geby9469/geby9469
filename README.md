@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=79EDFF&height=300&section=header&text=BongJunKim&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=79EDFF&height=300&section=header&text=Blockchain&fontSize=90)
 <br>
 
 ## Introduction
