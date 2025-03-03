@@ -1,25 +1,17 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=79EDFF&height=300&section=header&text=Blockchain&fontSize=90)
-<br>
-
 ## Introduction
-Hi! I'm a blockchain developer.<br>
-If you want to know details about me. You can click the icons! :smiley:
+Hi! I'm a blockchain developer. If you want to know more about me, click the icons! :smiley:
 
 **Social media**
 <a href="https://www.linkedin.com/in/geby94/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <br>
+
 **Tech Blog**
 <a href="https://gebys.notion.site/Geby-s-TechBlog-9571f217fc9b4703a035082513147743?pvs=4"><img src="https://img.shields.io/badge/-Notion-white?style=for-the-badge&logo=Notion&logoColor=black"/></a>
 <br>
-**Resume(kor)**
-<a href="https://gebys.notion.site/23076c10aacc4efc9300009ad0b9edd1?pvs=4"><img src="https://img.shields.io/badge/readme-018EF5?style=for-the-badge&logo=readme&logoColor=white"/></a>
-<br>
-**Portfolio(eng)**
-<a href="https://gebys.notion.site/Bongjun-Kim-634c91e4781a4d6bb1379807a7690069?pvs=4"><img src="https://img.shields.io/badge/-Notion-white?style=for-the-badge&logo=Notion&logoColor=black"/></a><br>
 
 ---
-## Skills
-**Research&Developement**
+## Tech Stacks
+**Web3 and crypto**
 <img src="https://img.shields.io/badge/Bitcoin-F7931A?style=for-the-badge&logo=Bitcoin&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white"/></a>
